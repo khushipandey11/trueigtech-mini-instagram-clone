@@ -1,0 +1,23 @@
+# Virtual environment
+
+venv/
+instagram_env/
+
+# Python cache
+
+**pycache**/
+\*.pyc
+
+# Django
+
+db.sqlite3
+media/
+
+# Environment variables
+
+.env
+
+# IDE files
+
+.vscode/
+.idea/
