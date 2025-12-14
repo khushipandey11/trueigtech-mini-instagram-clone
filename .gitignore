@@ -1,0 +1,88 @@
+# ---------------------
+# Python / Django
+# ---------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+instagram_env/
+
+# Django files
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Python packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---------------------
+# Node / React
+# ---------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.jspm_packages/
+.eslintcache
+
+# React environment
+instagram-frontend/.env*
+# Ignore React build (optional if you don't want to push build)
+instagram-frontend/build/
+
+# ---------------------
+# IDE / Editor
+# ---------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------------------
+# OS
+# ---------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ---------------------
+# Logs / runtime data
+# ---------------------
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ---------------------
+# Coverage / testing
+# ---------------------
+coverage/
