@@ -1,6 +1,6 @@
 # VS Code Setup Guide
 
-This guide will help you set up the Instagram Clone project in VS Code with all the necessary extensions and configurations.
+Setup guide for Instagram Clone project in VS Code.
 
 ## Prerequisites
 
@@ -205,4 +205,4 @@ Use Thunder Client extension:
 4. Add Authorization header: `Bearer <your-jwt-token>`
 5. Test your API endpoints
 
-This setup gives you a complete development environment for the Instagram Clone project!
+Development environment setup complete.

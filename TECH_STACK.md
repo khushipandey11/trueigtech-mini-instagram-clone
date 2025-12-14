@@ -1,8 +1,8 @@
-# 🛠️ Instagram Clone - Complete Tech Stack
+# Tech Stack
 
-## 📋 Overview
+## Overview
 
-This Instagram clone is built with a modern, scalable architecture using Django REST Framework for the backend and React for the frontend.
+Instagram clone built with Django REST Framework backend and React frontend.
 
 ## 🔧 Backend Technology Stack
 
@@ -316,4 +316,4 @@ CORS_ALLOW_ALL_ORIGINS = True  # Development only
 - **Integration Tests** - User interaction testing
 - **E2E Testing** - Full application flow testing
 
-This tech stack provides a solid foundation for a scalable, maintainable, and feature-rich social media application.
+Tech stack for social media application.

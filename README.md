@@ -1,10 +1,10 @@
 # Instagram Clone
 
-A full-featured social media app built with Django and React. Share photos, follow friends, post stories, and stay connected.
+Social media app built with Django and React. Share photos, follow friends, post stories.
 
 ## What's Inside
 
-This is a complete Instagram-style social platform with all the features you'd expect:
+Features:
 
 - **Photo Sharing** - Upload images or use URLs to share moments
 - **Stories** - 24-hour temporary posts that disappear automatically
